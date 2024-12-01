@@ -21,8 +21,7 @@ The portfolio is live!
 Alternatively, you can clone this repository and run it locally:
 
 bash
-Copy code
-git clone https://github.com/your-username/portfolio.git  
+Copy code 
 cd portfolio  
 npm install  
 npm run dev  
