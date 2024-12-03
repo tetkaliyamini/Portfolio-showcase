@@ -21,7 +21,6 @@ export const projects: Project[] = [
     title: "PrediScan",
     description: "Created a predictive medical scanning app using Streamlit to assist doctors in analyzing patient health data.",
     technologies: "Python, Machine Learning, Streamlit",
-    githubUrl: "https://github.com/tetkaliyamini/prediscan",
     demoUrl: "https://prediscan.streamlit.app",
     image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800"
   },
